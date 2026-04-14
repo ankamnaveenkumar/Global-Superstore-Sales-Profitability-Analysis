@@ -4,6 +4,12 @@
 
 Analyze sales, profitability, and customer behavior data to identify key drivers of revenue growth, detect profit leakage, and provide actionable recommendations to improve business performance and operational efficiency.
 
+## 📂 Dataset
+
+- Retail sales dataset containing order-level transaction data  
+- Includes product, customer, region, sales, profit, discount, and shipping details  
+- Covers multiple years of business operations  
+
 ---
 ## ❓ Business Questions
 
