@@ -170,7 +170,7 @@ Analyze sales, profitability, and customer behavior data to identify key drivers
 ## 📁 Project Structure
 
 ```
-walmart-sales-analysis/
+Global-Superstore-Sales-Profitability-Analysis/
 │
 ├── data/
 ├── notebooks/
